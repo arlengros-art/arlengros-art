@@ -1,5 +1,7 @@
 ### Привет! Меня зовут `arlengros-art` 👋
 
+[![CI](https://github.com/arlengros/arlengros-art/actions/workflows/ci.yml/badge.svg)](https://github.com/arlengros/arlengros-art/actions/workflows/ci.yml)
+
 Я разработчик, увлечённый созданием полезных сервисов и изучением новых технологий.
 
 - 🎀 Сейчас я работаю над несколькими pet‑проектами: CLI‑утилитой для проверки HTTP‑сервисов, личным портфолио и GitHub Action.
