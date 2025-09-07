@@ -1,0 +1,10 @@
+import type {AppProps} from 'next/app';
+import {NextIntlProvider} from 'next-intl';
+
+export default function App({Component, pageProps}: AppProps) {
+  return (
+    <NextIntlProvider messages={(pageProps as any).messages}>
+      <Component {...pageProps} />
+    </NextIntlProvider>
+  );
+}
